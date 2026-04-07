@@ -1,7 +1,7 @@
 # AI Prompt Documentation — STAT 4520 Prompting Assignment
 
-**Name:** ___________________________  
-**Date:** ___________________________
+**Name:**  
+**Date:** 
 
 ---
 
@@ -24,7 +24,7 @@ Save your screenshots in a folder called `screenshots/` alongside this file.
 
 ## Part 4A — Bad Prompt
 
-**Label:** 🔴 Bad Prompt
+**Label:** Bad Prompt
 
 **Screenshot:**
 
@@ -39,7 +39,7 @@ Save your screenshots in a folder called `screenshots/` alongside this file.
 
 ## Part 4B — Good Prompt
 
-**Label:** 🟢 Good Prompt
+**Label:** Good Prompt
 
 **Screenshot:**
 
@@ -54,7 +54,7 @@ Save your screenshots in a folder called `screenshots/` alongside this file.
 
 ## Part 6 — Bonus Prompt (if attempted)
 
-**Label:** 🟢 Good Prompt (Bonus)
+**Label:** Good Prompt (Bonus)
 
 **Screenshot:**
 
@@ -67,4 +67,3 @@ Save your screenshots in a folder called `screenshots/` alongside this file.
 
 ---
 
-*STAT 4520 · University of Missouri*
