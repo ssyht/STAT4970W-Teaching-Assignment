@@ -1,4 +1,4 @@
-# AI Prompt Documentation — STAT 4520 Prompting Assignment
+# AI Prompt Documentation — STAT 4970W Prompting Assignment
 
 **Name:**  
 **Date:** 
